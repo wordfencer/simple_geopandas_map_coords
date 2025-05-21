@@ -19,3 +19,4 @@ These resources were pivotal in learning the concepts needed to develop this rep
 - [Connecting Pandas to a Database with SQLAlchemy](https://www.geeksforgeeks.org/connecting-pandas-to-a-database-with-sqlalchemy/)
 - [geodatasets](https://geodatasets.readthedocs.io/en/latest/)
 - [geodatasets GitHub Repo](https://github.com/geopandas/geodatasets)
+- [Create Scatter Charts in Matplotlib using Flask](https://www.geeksforgeeks.org/create-scatter-charts-in-matplotlib-using-flask/)

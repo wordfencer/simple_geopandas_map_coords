@@ -1,6 +1,8 @@
 # simple_geopandas_map_coords
 Creates a basic vector world map with cities plotted using coordinates explicitly written into the Python script.
 
+Example Output Map (using sample coordinates from script: [https://worldmapcoords.s3.us-east-1.amazonaws.com/static/img/worldmap.png](https://worldmapcoords.s3.us-east-1.amazonaws.com/static/img/worldmap.png)
+
 ## geopandas.dataset v. geodatasets
 It was challenging to find solutions that showed the correct way to resolve the AttributeError "The geopandas.dataset has been deprecated and was removed in GeoPandas 1.0.". To save others the same headache, a quick note on how to do this:
 
